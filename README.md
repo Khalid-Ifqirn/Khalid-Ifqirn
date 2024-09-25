@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)](https://rishavchanda.io)
 <h3 align="left">Hi 👋! My name is KHALID IFQIRN and I'm a Full Stack Developer from Morocco</h3>
 
 ###
