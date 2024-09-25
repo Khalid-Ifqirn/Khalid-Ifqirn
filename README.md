@@ -1,4 +1,6 @@
-<h3 align="left">Hi 👋! My name is KHALID IFQIRN and I'm a Full Stack Developer from Morocco</h3>
+[![MasterHead](https://maharatech.gov.eg/pluginfile.php/45249/course/overviewfiles/skills-roadmap-for-developers.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm KHALID IFQIRN</h1>
+<h3 align="center">A passionate FullStack Developer from Morocco</h3>
 
 ###
 
