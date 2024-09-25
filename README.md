@@ -78,7 +78,7 @@
 
 ###
 
-[Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Khalid-Ifqirn&&theme=xcode)](https://github.com/Khalid-Ifqirn)
+<h3 align="left"><a href="https://github.com/Khalid-Ifqirn">Sarthak's GitHub activity graph</a></h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khalid-Ifqirn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Khalid-Ifqirn" /></p>
 
