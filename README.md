@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://i.pinimg.com/564x/7c/d3/07/7cd3077f5a0a7bfc7f9de97f206faae2.jpg)](https://github.com/Khalid-Ifqirn)-->
-<a href="https://github.com/Khalid-Ifqirn"><img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/564x/7c/d3/07/7cd3077f5a0a7bfc7f9de97f206faae2.jpg"></a>
+<a href="https://github.com/Khalid-Ifqirn"><img align="center" alt="Coding" width="1000" height ="400" src="https://i.pinimg.com/564x/7c/d3/07/7cd3077f5a0a7bfc7f9de97f206faae2.jpg"></a>
 <h1 align="center">Hi 👋, I'm KHALID IFQIRN</h1>
 <h3 align="center">A passionate FullStack Developer from Morocco</h3>
 
